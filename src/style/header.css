@@ -1,0 +1,63 @@
+.header-wrap {
+    width: 100%;
+    display: flex;
+    background: #2D3B6E;
+    align-items: center;
+}
+
+.header-logo {
+    width: 80px;
+    height: 60px;
+    background: #3357DF;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-logo img {
+    width: 33px;
+    height: 33px;
+}
+
+.header-title {
+    width: 200px;
+    margin-right: 70%;
+    font-family: PingFangSC-Semibold;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.08px;
+    font-weight: 600;
+}
+
+.log-off {
+    min-width: 70px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: 400;
+    cursor: pointer;
+    margin: 0 24px;
+}
+
+.log-off:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.login-img {
+    margin-left: 60% !important;
+}
+
+.login-img img {
+    width: 26px;
+    height: 26px;
+}
+
+.login-user {
+    min-width: 80px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: 400;
+    margin: 0 24px;
+}

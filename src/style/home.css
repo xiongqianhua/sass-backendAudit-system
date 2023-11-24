@@ -1,0 +1,38 @@
+.number-wrap {
+    height: '30px';
+    width: '100px';
+    margin: 12px;
+    text-align: 'center';
+    font-size: 14px;
+}
+
+.number-total {
+    font-size: 18px;
+    color: #0A1633;
+    letter-spacing: 0.4px;
+    line-height: 26px;
+    font-weight: 600;
+}
+
+.number-type {
+    color: rgba(0,0,0,0.85);
+}
+.list-title{
+    font-size: 20px;
+    color: rgba(0,0,0,0.85);
+}
+.gray{
+   color: #cccccc;
+}
+.blue{
+   color: #3357DF;
+}
+.green{
+  color: #4cd964; 
+}
+.black{
+    color: rgba(0,0,0,0.85);
+}
+.status-icon {
+    font-size: 50px;
+}
